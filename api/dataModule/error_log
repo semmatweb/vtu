@@ -1,0 +1,11 @@
+[29-Nov-2022 15:33:12 UTC] PHP Warning:  include(../web_config.php): failed to open stream: No such file or directory in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 3
+[29-Nov-2022 15:33:12 UTC] PHP Warning:  include(../web_config.php): failed to open stream: No such file or directory in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 3
+[29-Nov-2022 15:33:12 UTC] PHP Warning:  include(): Failed opening '../web_config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 3
+[29-Nov-2022 15:33:12 UTC] PHP Notice:  Undefined index: trx in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 5
+[29-Nov-2022 15:33:12 UTC] PHP Notice:  Undefined index: status in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 7
+[29-Nov-2022 15:33:12 UTC] PHP Notice:  Undefined index: msg in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 8
+[29-Nov-2022 15:33:12 UTC] PHP Notice:  Undefined variable: con in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 11
+[29-Nov-2022 15:33:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 11
+[29-Nov-2022 15:33:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 12
+[29-Nov-2022 15:33:12 UTC] PHP Notice:  Undefined variable: con in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 20
+[29-Nov-2022 15:33:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/salaolid/public_html/api/dataModule/dailycashout.php on line 20
